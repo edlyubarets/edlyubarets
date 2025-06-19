@@ -28,7 +28,11 @@ In my opinion `interest` and `desire to create` are keys to success, so I use th
   - `Quartus`, `DipTrace`, `EasyEDA`
   - `Git`, `Ultimaker Cura`
 
->Also I have confident soldering skills & expirience with SMD and DIP components installation
+**Other**
+- `Digital schematics`, `Soldering`
+- `3D modeling`, `3D printing`
+
+>I have confident soldering skills & expirience with SMD and DIP components installation
 
 >I've also been doing 3D printing for a long time.
 >
