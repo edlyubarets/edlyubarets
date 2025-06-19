@@ -38,4 +38,4 @@ In my opinion `interest` and `desire to create` are keys to success, so I use th
 ### 🎯Future goals & cooperation
   Because of the recent situation I am very interested in **MilTech** development📡
 
-  And I have great desire to improve the defence capabilities of my country🛡️
+  And I have great desire to improve the defence capabilities of my country and entire civilized world🛡️
