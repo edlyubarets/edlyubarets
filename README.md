@@ -42,3 +42,8 @@ In my opinion `interest` and `desire to create` are keys to success, so I use th
   Because of the recent situation I am very interested in **MilTech** development📡
 
   And I have great desire to improve the defence capabilities of my country and entire civilized world🛡️
+  
+---
+### ☎️Contacts
+- 📧`ed.lyubarets@gmail.com`
+- 📲`https://t.me/Ed_Lyubarets`
