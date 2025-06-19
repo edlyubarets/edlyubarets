@@ -16,7 +16,7 @@ In my opinion `interest` and `desire to create` are keys to success, so I use th
 ---
 ### 🛠️Tech & Tools
 **Languages:**
-  - `C`, `C++`, `Verilog`(basic), `Python`(basic)
+  - `C`, `Verilog`(basic), `Python`(basic)
 
 **Development environment:**
   - `STM32CubeIDE`, `ArduinoIDE`
@@ -25,7 +25,7 @@ In my opinion `interest` and `desire to create` are keys to success, so I use th
   - `Quartus`, `DipTrace`, `EasyEDA`
   - `Git`, `Ultimaker Cura`
 
->Also I have congident soldering skills & expirience with SMD and DIP components installation
+>Also I have confident soldering skills & expirience with SMD and DIP components installation
 
 >I've also been doing 3D printing for a long time.
 >
