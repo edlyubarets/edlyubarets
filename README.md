@@ -28,7 +28,7 @@ In my opinion `interest` and `desire to create` are keys to success, so I use th
   - `Quartus`, `DipTrace`, `EasyEDA`
   - `Git`, `Ultimaker Cura`
 
-**Other:**
+**Practice:**
 - `Digital schematics`, `Soldering`
 - `3D modeling`, `3D printing`
 
